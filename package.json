@@ -11,19 +11,7 @@
   "dependencies": {
     "@types/node": "^17.0.14",
     "axios": "^0.25.0",
-    "bl": "^5.0.0",
-    "blob": "^0.1.0",
-    "blob-polyfill": "^6.0.20211015",
-    "cross-blob": "^3.0.1",
-    "ipfs-core": "^0.14.0",
-    "it-concat": "^2.0.0",
-    "it-to-buffer": "^2.0.2",
-    "string_decoder": "^1.3.0",
-    "tar-fs": "^2.1.1",
     "ts-node": "^10.4.0",
     "typescript": "^4.5.5"
-  },
-  "devDependencies": {
-    "@types/tar-fs": "^2.0.1"
   }
 }
